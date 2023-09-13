@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JAVASCRIPT, PYTHON, HTLM, JAVASCRIPT**
 
-- 📫 How to reach me **laurasmile@gmail.com**
+- 📫 How to reach me **kwonengineer@gmail.com**
 
 - 📄 Know about my experiences [Devopes](Devopes)
 
