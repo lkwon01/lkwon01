@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@laurahyejungcollins](https://medium.com/@laurahyejungcollins)
 
-- 💬 Ask me about **SSH, PYTHON, HTLM, JAVASCRIPT**
+- 💬 Ask me about **JAVASCRIPT, PYTHON, HTLM, JAVASCRIPT**
 
 - 📫 How to reach me **laurasmile@gmail.com**
 
