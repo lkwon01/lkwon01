@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lkwon01" alt="lkwon01" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Developer Assossociate certification**
+- 🔭 I’m currently working on **AWS Certified Developer - Associate Certification**
 
 - 👯 I’m looking to collaborate on **CloudFormation**
 
