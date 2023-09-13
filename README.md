@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **kwonengineer@gmail.com**
 
-- 📄 Know about my experiences [Devopes](Devopes)
-
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
