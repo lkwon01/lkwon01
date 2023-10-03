@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on **AWS Certified Developer - Associate Certification**
 
-- 👯 I’m looking to collaborate on **AWS CloudFormation**
-
-- 🤝 I’m looking for help with **AWS CloudFormation**
-
 - 👨‍💻 All of my projects are available at [https://medium.com/@laurahyejungcollins](https://medium.com/@laurahyejungcollins)
 
 - 📝 I regularly write articles on [https://medium.com/@laurahyejungcollins](https://medium.com/@laurahyejungcollins)
