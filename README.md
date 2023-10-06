@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lkwon01" alt="lkwon01" /></a> </p>
 
-- 🔭 I’m currently working on **HashiCorp Terraform Associate Certification exam **
+- 🔭 I’m currently working on **Developing apps uing Python **
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@laurahyejungcollins](https://medium.com/@laurahyejungcollins)
 
