@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lkwon01" alt="lkwon01" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Certified Developer - Associate Certification**
+- 🔭 I’m currently working on **HashiCorp Terraform Associate Certification exam **
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@laurahyejungcollins](https://medium.com/@laurahyejungcollins)
 
 - 📝 I regularly write articles on [https://medium.com/@laurahyejungcollins](https://medium.com/@laurahyejungcollins)
-
-- 💬 Ask me about **JAVASCRIPT, PYTHON, HTLM, JAVASCRIPT**
 
 - 📫 How to reach me **kwonengineer@gmail.com**
 
