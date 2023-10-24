@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lkwon01" alt="lkwon01" /></a> </p>
 
-- 🔭 I’m currently working on **Developing apps uing Python **
-
 - 👨‍💻 All of my projects are available at [https://medium.com/@laurahyejungcollins](https://medium.com/@laurahyejungcollins)
 
 - 📝 I regularly write articles on [https://medium.com/@laurahyejungcollins](https://medium.com/@laurahyejungcollins)
 
 - 📫 How to reach me **kwonengineer@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I can kick and break boards.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
