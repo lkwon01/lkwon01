@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@laurahyejungcollins](https://medium.com/@laurahyejungcollins)
 
-- 📝 I regularly write articles on [https://medium.com/@laurahyejungcollins](https://medium.com/@laurahyejungcollins)
+- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/924951198664525214](https://www.blogger.com/blog/posts/924951198664525214)
 
 - 📫 How to reach me **kwonengineer@gmail.com**
 
