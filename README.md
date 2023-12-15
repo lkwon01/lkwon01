@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/924951198664525214](https://www.blogger.com/blog/posts/924951198664525214)
 
-- 📫 How to reach me **kwonengineer@gmail.com**
+- 📫 How to reach me **laurasmile@gmail.com**
 
 - ⚡ Fun fact **I can kick and break boards.**
 
